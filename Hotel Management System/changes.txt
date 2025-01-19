@@ -1,0 +1,27 @@
+better search system in customer page of the project
+
+better search system in room page of the project
+
+customer can add multiple options for the meal - Breakfast, Lunch, Dinner
+
+the taxes on the room chosen and meal taken is calculated separately
+
+calculating the no of days correctly
+
+
+
+
+
+
+TO DO
+
+take the number of persons in account in the room to correctly calculate the meal charge if the customer wants to opt for meal for more than 1 person.
+
+
+enhanced the display window of the room page - proper space for the meal option as the "Breakfast, Lunch, Dinner" option is not displayed in full
+
+
+try to change images
+make the windows transparent so that the bg will be visible
+
+
